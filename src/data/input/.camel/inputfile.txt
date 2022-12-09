@@ -1,0 +1,1 @@
+This is the input file for Apache Camel router which would be moved to output directory by the router
