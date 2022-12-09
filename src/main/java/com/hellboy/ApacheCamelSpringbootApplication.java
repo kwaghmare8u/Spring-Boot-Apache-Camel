@@ -1,0 +1,13 @@
+package com.hellboy;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApacheCamelSpringbootApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ApacheCamelSpringbootApplication.class, args);
+	}
+
+}
